@@ -10,12 +10,10 @@ It was created as a fast, (more or less) convenient alternative to the classic W
 
 * Live Markdown preview
 * GitHub-style rendering
-* Powered by **Markdig**
-* HTML preview using **WebView2**
 
 ### UI features
 
-* Dockable preview panel
+* Dockable MarkDown preview panel
 
 # Keyboard Shortcuts
 
