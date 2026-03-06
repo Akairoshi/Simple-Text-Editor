@@ -1,7 +1,7 @@
 # Simple Text Editor
 
 A simple text editor on .NET
-It was created as a fast, (more or less) convenient alternative to the classic Windows Notepad.
+It was created as a fast, (more or less) convenient alternative to the classic Windows Notepad on Windows *(more windows)*.
 
 *(well, there will be improvements in the future, that's for sure)*
 # Features
